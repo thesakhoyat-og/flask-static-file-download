@@ -40,7 +40,7 @@ When the user visits the homepage, Flask runs the route function and renders the
 
 The `index.html` page contains a download button. When the user clicks the button, the ZIP file stored inside the `static` folder is downloaded.
 
-## Main Flask Code
+## Main Flask Code:
 
 from flask import Flask, render_template
 
